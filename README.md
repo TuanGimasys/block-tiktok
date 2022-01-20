@@ -1,7 +1,4 @@
 # TikTok Ads Block #
-## What Does This Block Do For Me? ##
-
-[2-3 Sentences describing the purpose of the block, and what the user will be able to do once it is installed.]
 
 ## Content ##
 #### Explore ####
