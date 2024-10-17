@@ -1,12 +1,12 @@
-project_name: "block-tiktok-ads"
+project_name: "gms-rd-smartanalytics"
 
 # TODO: Update connection
 constant: CONNECTION_NAME {
-  value: "DATA_CONNECTION"
+  value: "cortex_tiktok"
   export: override_optional
 }
 
 constant: TIKTOK_SCHEMA {
-  value: "TIKTOK"
+  value: "CORTEX_TIKTOK_REPORTING"
   export: override_optional
 }
